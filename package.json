@@ -1,0 +1,26 @@
+{
+  "name": "auth-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "https": "^1.0.0",
+    "passport-facebook": "^3.0.0",
+    "passport": "^0.4.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "socket.io": "^2.3.0",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sudarshan",
+  "license": "ISC"
+}
